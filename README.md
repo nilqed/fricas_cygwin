@@ -7,7 +7,7 @@ Windows 10+ users may want to use [WSL](https://docs.microsoft.com/en-us/windows
 Most comfortable is the *portable Cygwin* version from [MachinaCore](https://github.com/MachinaCore/CygwinPortable). However, we recommend the prebuilt versions from [AppVeyor](https://ci.appveyor.com/project/MachinaCore/cygwinportable/build/artifacts)    instead of the older 1.2 releases.
 
 ## Binary Releases (fricas)
-We provide binary releases for the current FriCAS version 1.3.3:
+We provide [binary releases](https://github.com/nilqed/fricas_cygwin/releases) for the current FriCAS version 1.3.3:
 
 * fricas-1.3.3-x86_64-cygwin.tar.gz (install to /usr/local)
 * ecl-16.1.3.tar.gz (required if you don't have ECL already)
