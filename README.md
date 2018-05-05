@@ -21,6 +21,31 @@ and
 ## Portable mode howto
 
 1. Download FriCAS_CygwinPortable64_x.y.z.7z 
-2. Unpack anywhere (7z required)
+2. Unpack anywhere  (7z required)
+3. Start `CygwinPortable.exe`
 
-[Tray](img/tray0.png)
+#### 4. Use tray menu
+![Click tray icon](img/tray0.png)
+
+![Scripts or](img/tray1.png)
+
+#### 5. X server
+![Start X](img/tray2.png)
+
+![X server](img/tray3.png)
+
+![X applications menu](img/tray4.png)
+
+#### 6. Cygwin terminal (mintty)
+![System tools](img/tray5.png)
+
+
+### 7. FriCAS (Hypedoc/Draw)
+![FriCAS 1](img/fricas1.png)
+
+![FriCAS 2](img/fricas2.png)
+
+![FriCAS 3](img/fricas3.png)
+
+
+
